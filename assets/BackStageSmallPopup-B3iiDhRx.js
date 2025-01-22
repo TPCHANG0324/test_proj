@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,I as s,g as a}from"./index-dh9-n73s.js";const n={name:"BackStageSmallPopup"},c={class:"BackStageSmallPopup"};function r(e,p,_,l,m,u){return a(),t("section",c,[s(e.$slots,"default")])}const d=o(n,[["render",r]]);export{d as default};

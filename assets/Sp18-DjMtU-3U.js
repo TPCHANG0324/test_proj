@@ -1,1 +1,0 @@
-const o="/beCoolNow_project/assets/Sp15-z00c0EGM.jpg",s="/beCoolNow_project/assets/Sp16-Dvq1P0rY.jpg",p="/beCoolNow_project/assets/Sp17-B0NfFKzZ.jpg",t="/beCoolNow_project/assets/Sp18-spirlGJv.jpg";export{o as _,s as a,p as b,t as c};

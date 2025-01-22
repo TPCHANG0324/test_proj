@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{g as t,c as n,I as s}from"./index-DpXwYeA1.js";const c={name:"BackStageConfirmPopup"},r={class:"backStageConfirmPopup_H"};function a(o,_,p,i,m,f){return t(),n("section",r,[s(o.$slots,"default")])}const d=e(c,[["render",a]]);export{d as _};
